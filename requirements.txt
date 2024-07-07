@@ -1,0 +1,7 @@
+gradio
+openai-whisper
+PyPDF2
+langchain
+langchain-google-genai
+langchain-community
+faiss-cpu
