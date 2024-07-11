@@ -1,6 +1,6 @@
 # Multilingual-RAG-ChatBot
 ## Overview
-This is a Multilingual ChatBot that will provide response only for a given specific context. The context can be customized and read through a pdf file. That user can provide prompt in any language out of 99+ languages supported by Whisper AI.
+This is a Multilingual ChatBot that will provide response only for a given specific context. The context can be customized and read through a pdf file. The user can provide prompt in any language out of 99+ languages supported by Whisper AI.
 
 ## Features
 Takes *live/pre-recorded* audio input
