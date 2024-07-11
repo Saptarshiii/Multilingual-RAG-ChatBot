@@ -23,6 +23,7 @@ After successful execution of all cells the last cell will launch the UI and the
 
 The Default context is about Rabindranath Tagore loaded in dummy.pdf
 Write your custom context(knowledge about the topic the AI should answer) in any pdf and change the following variable
+## Note: Make sure the dummy.pdf is present in the same folder as the notebook or you can use your own pdf as follows
 ```
 pdf_path = "dummy.pdf"
 #replace dummy.pdf with the name of your context file
